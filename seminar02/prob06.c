@@ -11,7 +11,7 @@ int main() {
 
     if (!(fp = fopen(filename, "rb"))) {
 
-    printf("eroare");
+        printf("File Open Error!");
     } else {
 
         fread(&input, sizeof(float), 1, fp);
