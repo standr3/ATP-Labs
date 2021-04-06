@@ -1,0 +1,4 @@
+1. Să se scrie un subprogram pentru crearea unui fișier text care să conțină elemente reale (în fișier sunt memorate elementele unui vector – un element pe fiecare linie). Se va oferi și un exemplu de utilizare.
+2. Să se scrie un subprogram pentru preluarea vectorului în memorie. Se va scrie și programul apelator.
+3. Să se scrie programul care memorează într-un fişier text date despre studenţii unei facultăţi. Pe fiecare linie se memorează: numărul matricol, numele, prenumele, anul, grupa, cele 10 note obţinute la examene. Datele sunt separate prin câte un spaţiu.
+4. Să se scrie programul care calculează media studenţilor integralişti şi cea mai mare dintre mediile studenţilor integralişti din fişierul creat anterior.
